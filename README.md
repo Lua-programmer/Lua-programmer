@@ -1,3 +1,4 @@
+<div style="background-color:rgba(0,0,255,0.3)">
 # Hey guys 👋
 ## I'm Luana Melissa 👩‍💻
 - Paraíba 🌵 Brazil 🌍
@@ -28,5 +29,6 @@
   <a href="https://www.instagram.com/luana.melissa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-melissa-%F0%9F%9A%80-473208207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+</div>
 </div>
  
