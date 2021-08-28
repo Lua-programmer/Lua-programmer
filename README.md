@@ -7,11 +7,11 @@
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
 <div>
   <a href="https://github.com/lua-programmer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lua-programmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lua-programmer&show_icons=true&theme=bllue&include_all_commits=true&count_private=true"/>
 </div>
   
 ## Skills
-<div style="display: inline_block; margin:15px; background-color:rgba(0,0,255,0.3)"><br>
+<div style="display: inline_block; margin:15px"><br>
    <img align="center" alt="Lua-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Lua-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Lua-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
