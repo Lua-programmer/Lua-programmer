@@ -8,6 +8,8 @@
 <div>
   <a href="https://github.com/lua-programmer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lua-programmer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
   
 ## Skills
