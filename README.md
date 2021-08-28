@@ -8,7 +8,6 @@
 <div>
   <a href="https://github.com/lua-programmer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lua-programmer&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?top-langs/?username=Lua-programmer&theme=midnight-purple" />
 
 
 </div>
