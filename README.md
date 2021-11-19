@@ -25,6 +25,11 @@
    <img align="center" alt="Lua-Nestjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
    <img align="center" alt="Lua-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
    <img align="center" alt="Lua-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+   <img align="center" alt="Lua-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+   <img align="center" alt="Lua-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center" alt="Lua-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="Lua-npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+   <img align="center" alt="Lua-npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
   
 <div> 
 <hr>
@@ -34,3 +39,8 @@
   <a href="https://www.linkedin.com/in/luana-melissa-473208207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+<div>
+<hr>
+ ## Portfolio
+  <a href="https://www.linkedin.com/in/luana-melissa-473208207/" target="_blank"><img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-portfolio-business-management-becris-lineal-color-becris.png" target="_blank"></a> 
+  </div>
