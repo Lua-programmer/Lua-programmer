@@ -38,5 +38,10 @@
   <a href="https://www.instagram.com/luana.melissa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-melissa-473208207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  <hr>
+  
+ ## Portfolio
+  <a href="https://www.linkedin.com/in/luana-melissa-473208207/" target="_blank"><img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-portfolio-business-management-becris-lineal-color-becris.png" target="_blank"></a> 
+
 </div>
   
