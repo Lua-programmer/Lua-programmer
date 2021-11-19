@@ -41,7 +41,7 @@
   <hr>
   
  ## Portfolio
-  <a href="https://www.linkedin.com/in/luana-melissa-473208207/" target="_blank"><img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-portfolio-business-management-becris-lineal-color-becris.png" target="_blank"></a> 
+  <a href="https://lua-programmer.herokuapp.com/" target="_blank"><img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-portfolio-business-management-becris-lineal-color-becris.png" target="_blank"></a> 
 
 </div>
   
