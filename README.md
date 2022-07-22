@@ -1,9 +1,10 @@
 # Hey guys 👋
-## I'm Luana Melissa 👩‍💻
-- Paraíba 🌵 Brazil 🌍
-- Student 📚
-- Programmer 💻
-- Developer 🚀
+### I'm Luana Melissa 👩‍💻
+- ###### Paraíba 🌵 Brazil 🌍
+- ###### Student 📚
+- ###### Programmer 💻
+- ###### Developer 🚀
+- ###### Insider in Invillia 💼
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
 <div display=center>
   <a href="https://github.com/lua-programmer">
