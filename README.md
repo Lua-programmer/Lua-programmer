@@ -6,14 +6,14 @@
 - ###### Developer 🚀
 - ###### Insider in Invillia 💼
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
-<div display=center>
+<hr>
+<div align="center">
   <a href="https://github.com/lua-programmer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lua-programmer&show_icons=true&theme=midnight-purple&include_all_commits==true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lua-programmer&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
-## Skills
-<div style="display:flex-box; justfy-contenty:center; align-items:center; margin:15px"><br>
+
+<div align="center" ><br>
    <img align="center" alt="Lua-HTML" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Lua-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="Lua-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -35,7 +35,3 @@
   <a target="_blank" href="https://www.linkedin.com/in/luana-melissa-473208207/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
   <hr>
-  
- ## Portfolio
-  <a target="_blank" href="https://lua-programmer.herokuapp.com/" target="_blank"><img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-portfolio-business-management-becris-lineal-color-becris.png"></a> 
-</div>
