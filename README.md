@@ -6,6 +6,9 @@
 - ###### Developer 🚀
 - ###### Insider in Invillia 💼
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
+ ##   Here is a random joke that'll make you laugh!
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
 <hr>
 <div align="center">
   <a href="https://github.com/lua-programmer">
