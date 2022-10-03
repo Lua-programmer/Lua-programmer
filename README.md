@@ -6,7 +6,6 @@
 - ###### Developer 🚀
 - ###### Insider in Invillia 💼
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Lua-programmer/Lua-programmer)
 <hr>
 <div align="center">
   <a href="https://github.com/lua-programmer">
