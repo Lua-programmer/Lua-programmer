@@ -6,7 +6,7 @@
 - ###### Developer 🚀
 - ###### Insider in Invillia 💼
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
- ![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=Lua-programmer)
  
 <hr>
 <div align="center">
