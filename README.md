@@ -1,11 +1,17 @@
 # Hey guys 👋
 ### I'm Luana Melissa 👩‍💻
+<div >
+  
+  <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/zhCP3DG/octocat-1668308860152.png">
+  
 - ###### Paraíba 🌵 Brazil 🌍
 - ###### Student 📚
 - ###### Programmer 💻
 - ###### Developer 🚀
 - ###### Insider in Invillia 💼
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
+  
+</div>
 <hr>
 <div align="center">
   <a href="https://github.com/lua-programmer">
