@@ -2,7 +2,7 @@
 ### I'm Luana Melissa 👩‍💻
 <div >
   
-  <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/zhCP3DG/octocat-1668308860152.png">
+  <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/YLzMy1j/octocat.png">
   
 - ###### Paraíba 🌵 Brazil 🌍
 - ###### Student 📚
