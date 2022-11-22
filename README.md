@@ -1,4 +1,4 @@
-# Hey guys 👋
+# Hi guys 👋
 ### I'm Luana Melissa 👩‍💻
 <div >
   
