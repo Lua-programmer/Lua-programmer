@@ -6,9 +6,8 @@
   
 - ###### Paraíba 🌵 Brazil 🌍
 - ###### Student 📚
-- ###### Programmer 💻
-- ###### Developer 🚀
-- ###### Insider in Invillia 💼
+- ###### Back end Developer 💻
+- ###### Invillia 💼
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
   
 </div>
