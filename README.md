@@ -2,8 +2,6 @@
 ### I'm Luana Melissa 👩‍💻
 <div >
   
-  <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/GsSymt7/octocat-1691362508597-removebg-preview.png">
-  
 - ###### Paraíba 🌵 Brazil 🌍
 - ###### Student 📚
 - ###### Back end Developer 💻
