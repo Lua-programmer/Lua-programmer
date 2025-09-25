@@ -6,7 +6,7 @@
 - ###### Student 📚
 - ###### Back end Developer 💻
 - ###### Java | Kotlin 👩‍💻
-- ###### Invillia 💼
+- ###### Pagbank 💼
 ##### "I don't have any special talent, I'm just passionately curious" - Albert Einstein 🧠
   
 </div>
